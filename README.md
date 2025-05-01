@@ -79,7 +79,7 @@ remix-electron-cli/
 - 📦 Single-command startup
 
 ## Teck Stack
-- Remix.js
+- Remix
 - Electron.js
 - FastAPI
 - Chakra UI (For styling)
